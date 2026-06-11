@@ -1,0 +1,13 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+
+# Web için gereksiz IDE ve OS dosyaları
+.idea/
+.vscode/
+*.iml
+.DS_Store
