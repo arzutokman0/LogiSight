@@ -4,7 +4,7 @@
 LogiSight, lojistik operasyonlarında sürücü güvenliğini artırmak amacıyla geliştirilmiş, sensör verilerini yapay zeka ile analiz eden modern bir web platformudur. Proje, tam yığın (full-stack) geliştirme prensipleriyle ayrık (decoupled) mimaride inşa edilmiştir.
 
 ##  Canlı Proje Linkleri
-* **Frontend (Web App):** [Projeni İncele](https://logisight-app.netlify.app)
+* **Frontend (Web App):** [Projeni İncele]((https://logisight-demo-2026.netlify.app/))
 * **Backend (API):** [API Endpoint](https://logisight-backend.onrender.com) 
 
 ##  Kullanılan Teknolojiler
